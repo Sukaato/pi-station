@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "vue.volar",
+    "biomejs.biome",
+    "ms-vscode.makefile-tools",
+    "golang.go",
+  ]
+}
